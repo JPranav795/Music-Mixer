@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Mixer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <h1>Music Mixer</h1>
+    
+    <!-- Audio Library -->
+    <div class="library">
+        <p>Click to add clips:</p>
+        <div class="audio-clip" data-audio="audio1.mp3">
+            <img src="icons/beat1.svg" alt="Beat 1">
+        </div>
+        <div class="audio-clip" data-audio="audio2.mp3">
+            <img src="icons/beat2.svg" alt="Beat 2">
+        </div>
+        <div class="audio-clip" data-audio="audio3.mp3">
+            <img src="icons/drum.svg" alt="Drum">
+        </div>
+    </div>
+
+    <!-- Drop Area -->
+    <div class="drop-zone">
+        <p>Selected clips:</p>
+    </div>
+
+    <!-- Play Button -->
+    <button id="play-mix">▶ Play Mix</button>
+
+    <script src="script.js"></script>
+</body>
+</html>
