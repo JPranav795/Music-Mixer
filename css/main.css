@@ -2,7 +2,7 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: #f4f4f4;
+    background-color: gold;
     margin: 0;
     padding: 20px;
     background-image: url(images/);
@@ -15,7 +15,7 @@ h1 {
 
 /* Audio Library */
 .library {
-    background: white;
+    background: goldenrod;
     padding: 15px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -44,9 +44,9 @@ h1 {
 
 /* Drop Zone */
 .drop-zone {
-    background: white;
+    background: rgb(224, 77, 13);
     padding: 20px;
-    border: 2px dashed #aaa;
+    border: 2px dashed #aaaaaa;
     border-radius: 10px;
     min-height: 80px;
     width: 80%;
