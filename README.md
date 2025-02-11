@@ -15,6 +15,24 @@ __The WWE Wrestler Theme Songs that this file contain are-__
 - Sheamus- Written on my face
 - Kevin Owens- The Canadian Nightmare
 
+# Sprint for this assignment-
+
+1.	Create a repo on github.
+2.	Add the necessary folders
+3.	Research on the topic that what sounds can be used to make this assignment unique.
+4.	Download the mp3 files from a copyright free website.
+5.	Download SVG/images for interaction.
+6.	Plan the structure of the webpage.
+7.	Write the CSS and html.
+8.	Check the audio files, that they are working properly.
+9.	Write the description of this project on the Readme file.
+10.	Learn and write the JS for interactivity.
+11.	Check the webpage, that is it properly working or not.
+
+All the audios are downloaded from - https://www.zedge.net/ringtones-and-wallpapers
+
+All the pictures downloaded from- https://www.wwe.com/
+
 # By- 
 ___Pranav_Pranav___
 
